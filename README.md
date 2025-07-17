@@ -1,4 +1,4 @@
-[![Cistercian](https://imgur.com/KCge7Lv)](https://github.com/teeale/Cistercian)
+[![Cistercian](https://i.imgur.com/KCge7Lv.png)](https://github.com/teeale/Cistercian)
 <h1 align="center">
   <b>Cistercian</b> - Image Generator for Cistercian Numerals
   <br>
